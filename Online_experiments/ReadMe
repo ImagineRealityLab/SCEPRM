@@ -1,0 +1,13 @@
+SCEPRM
+Online experiments for the manuscript "Contextual expectations increase the likelihood of misattributing imagery to perception"
+
+Overview
+This repository contains the two online experiments (Set1 and Set2) used to test whether scene congruency influences the misattribution of visual imagery to perception.
+
+Requirements
+JATOS version 3.9.5. The experiments were run on this version, and other versions have not been tested.
+
+Stimuli
+This repository includes only the scene images that we have permission to share and that are shown in the manuscript. Some of the other scenes were taken from online sources and cannot be redistributed because of copyright. Further scenes that we have permission to share, but that are not shown in the manuscript, can be requested from us.
+To run the complete paradigm, please add your own scenes to the stimulus folder, replacing the placeholder images and following the file naming used in the task code. The objects, the dynamic noise, and the visibility levels are described in the Methods of the manuscript.
+The image of the restaurant scene (Set2) is used with permission from ILIV.
